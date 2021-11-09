@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 dash-bootstrap-components = "*"
 dash = "*"
+plotly-express = "*"
 
 [dev-packages]
 
